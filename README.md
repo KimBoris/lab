@@ -4,4 +4,4 @@
 4. Zip Code : 12345
 5. Tel : 051-333-3333
 6. city : Busan
-7. Birth : Nov
+7. Birth : July
